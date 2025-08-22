@@ -29,10 +29,10 @@
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SeshaSai07/.Calculator-Java_Project.git
+   git clone https://github.com/SeshaSai07/.Calculator-Java Project.git
 
 2. Navigate to the project folder:
-   cd Calculator-Java_Project
+   cd Calculator-Java Project
 
 3. Compile the Java files:
    javac App.java
@@ -51,4 +51,5 @@ Sample Output
 
 👨‍💻 Author
 📧 maddinenilakshmiseshasai@gmail.com
+
 
