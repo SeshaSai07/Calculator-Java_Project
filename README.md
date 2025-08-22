@@ -1,18 +1,55 @@
-## Getting Started
+# 🧮 Java Calculator Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is a simple **Calculator Application** built using **Java**.  
+It provides basic arithmetic operations like addition, subtraction, multiplication, and division.  
+The project is designed to demonstrate **object-oriented programming (OOP)** concepts in Java.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📂 Project Structure
+- `Calculator.java` → Contains the logic for arithmetic operations.
+- `App.java` → Main driver class that interacts with the user and runs the calculator.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🚀 Features
+- Addition, Subtraction, Multiplication, and Division
+- User-friendly console-based interface
+- Error handling for invalid inputs
+- Well-structured, modular OOP design
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ Technologies Used
+- **Java SE** (Core Java)
+- **OOP Principles** (Encapsulation, Classes & Objects)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## ▶️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/SeshaSai07/.Calculator-Java_Project.git
+
+2. Navigate to the project folder:
+   cd Calculator-Java_Project
+
+3. Compile the Java files:
+   javac App.java
+
+4. Run the program:
+   java App
+
+Sample Output
+<img width="1919" height="1022" alt="Screenshot 2025-08-22 230046" src="https://github.com/user-attachments/assets/929ffbca-2563-433d-953a-010803199b1f" />
+
+📌 Future Enhancements
+
+Add advanced operations (power, square root, modulus)
+GUI-based calculator using Java Swing/JavaFX
+Unit testing with JUnit
+
+👨‍💻 Author
+
+Your Name
+📧 maddinenilakshmiseshasai@gmail.com
