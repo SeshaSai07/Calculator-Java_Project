@@ -1,8 +1,8 @@
 # 🧮 Java Calculator Application
 
-This is a simple **Calculator Application** built using **Java**.  
-It provides basic arithmetic operations like addition, subtraction, multiplication, and division.  
-The project is designed to demonstrate **object-oriented programming (OOP)** concepts in Java.
+- This is a simple **Calculator Application** built using **Java**.  
+- It provides basic arithmetic operations like addition, subtraction, multiplication, and division.  
+- The project is designed to demonstrate **object-oriented programming (OOP)** concepts in Java.
 
 ---
 
@@ -45,11 +45,10 @@ Sample Output
 
 📌 Future Enhancements
 
-Add advanced operations (power, square root, modulus)
-GUI-based calculator using Java Swing/JavaFX
-Unit testing with JUnit
+- Add advanced operations (power, square root, modulus)
+- GUI-based calculator using Java Swing/JavaFX
+- Unit testing with JUnit
 
 👨‍💻 Author
-
-Your Name
 📧 maddinenilakshmiseshasai@gmail.com
+
